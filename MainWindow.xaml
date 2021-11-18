@@ -32,7 +32,7 @@
                 </MenuItem>
                 <MenuItem Header="Cerrar sesión" Click="MenuItem_Click"/>
             </Menu>
-            <Image Source="\Imagenes\new_icon.png" Width="700" Height="400" />
+            <Image Source="/repuesto.jpg" Width="700" Height="400" />
         </StackPanel>
 
     </Grid>
