@@ -1,13 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 
-namespace SistemaRepuestosAntigua_AP1_PF.Utilidades
+namespace Proyecto_Final_Repuesto.BLL
 {
-    public class Utilidades
+    public class UtilidadesBLL
     {
+
         public static void VisualizarClave(ref Button BotonVer, ref Button BotonOcultar, ref PasswordBox password, ref TextBox Clave)
         {
             Clave.Text = password.Password;
@@ -84,14 +87,14 @@ namespace SistemaRepuestosAntigua_AP1_PF.Utilidades
 
             foreach (char carac in texto.ToCharArray())
             {
-                if (!Char.IsLetter(carac) && !Char.Equals(carac,' '))
+                if (!Char.IsLetter(carac) && !Char.Equals(carac, ' '))
                 {
                     return false;
                 }
             }
 
             return true;
-        }        
+        }
 
         public static bool ValidarDireccion(string texto)
         {

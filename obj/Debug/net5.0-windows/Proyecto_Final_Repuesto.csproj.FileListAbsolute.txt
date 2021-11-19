@@ -57,3 +57,16 @@ C:\Users\EDUCACION\Desktop\Proyecto_Final_Repuesto\obj\Debug\net5.0-windows\Proy
 C:\Users\EDUCACION\Desktop\Proyecto_Final_Repuesto\obj\Debug\net5.0-windows\ref\Proyecto_Final_Repuesto.dll
 C:\Users\EDUCACION\Desktop\Proyecto_Final_Repuesto\obj\Debug\net5.0-windows\Proyecto_Final_Repuesto.pdb
 C:\Users\EDUCACION\Desktop\Proyecto_Final_Repuesto\obj\Debug\net5.0-windows\Proyecto_Final_Repuesto.genruntimeconfig.cache
+C:\Users\EDUCACION\Desktop\Proyecto_Final_Repuesto\bin\Debug\net5.0-windows\DAL\Contexto.cs
+C:\Users\EDUCACION\Desktop\Proyecto_Final_Repuesto\obj\Debug\net5.0-windows\UI\Registros\rClientes.g.cs
+C:\Users\EDUCACION\Desktop\Proyecto_Final_Repuesto\obj\Debug\net5.0-windows\UI\Registros\rCobros.g.cs
+C:\Users\EDUCACION\Desktop\Proyecto_Final_Repuesto\obj\Debug\net5.0-windows\UI\Registros\rProductos.g.cs
+C:\Users\EDUCACION\Desktop\Proyecto_Final_Repuesto\obj\Debug\net5.0-windows\UI\Registros\rTiposProducto.g.cs
+C:\Users\EDUCACION\Desktop\Proyecto_Final_Repuesto\obj\Debug\net5.0-windows\UI\Registros\rUsuarios.g.cs
+C:\Users\EDUCACION\Desktop\Proyecto_Final_Repuesto\obj\Debug\net5.0-windows\UI\Registros\rVentas.g.cs
+C:\Users\EDUCACION\Desktop\Proyecto_Final_Repuesto\obj\Debug\net5.0-windows\UI\Registros\rClientes.baml
+C:\Users\EDUCACION\Desktop\Proyecto_Final_Repuesto\obj\Debug\net5.0-windows\UI\Registros\rCobros.baml
+C:\Users\EDUCACION\Desktop\Proyecto_Final_Repuesto\obj\Debug\net5.0-windows\UI\Registros\rProductos.baml
+C:\Users\EDUCACION\Desktop\Proyecto_Final_Repuesto\obj\Debug\net5.0-windows\UI\Registros\rTiposProducto.baml
+C:\Users\EDUCACION\Desktop\Proyecto_Final_Repuesto\obj\Debug\net5.0-windows\UI\Registros\rUsuarios.baml
+C:\Users\EDUCACION\Desktop\Proyecto_Final_Repuesto\obj\Debug\net5.0-windows\UI\Registros\rVentas.baml
