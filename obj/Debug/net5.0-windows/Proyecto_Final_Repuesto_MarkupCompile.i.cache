@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 C:\Users\EDUCACION\Desktop\Proyecto_Final_Repuesto\App.xaml
-11-370514189
+13-1646918653
 
-34-1156969659
+36-257863459
 213369720650
-MainWindow.xaml;UI\Consultas\cClientes.xaml;UI\Consultas\cProductos.xaml;UI\Consultas\cUsuarios.xaml;UI\Consultas\cVentas.xaml;UI\Registros\rClientes.xaml;UI\Registros\rCobros.xaml;UI\Registros\rProductos.xaml;UI\Registros\rTiposProducto.xaml;UI\Registros\rUsuarios.xaml;UI\Registros\rVentas.xaml;
+MainWindow.xaml;UI\Consultas\cClientes.xaml;UI\Consultas\cCobros.xaml;UI\Consultas\cProductos.xaml;UI\Consultas\cTiposProducto.xaml;UI\Consultas\cUsuarios.xaml;UI\Consultas\cVentas.xaml;UI\Registros\rClientes.xaml;UI\Registros\rCobros.xaml;UI\Registros\rProductos.xaml;UI\Registros\rTiposProducto.xaml;UI\Registros\rUsuarios.xaml;UI\Registros\rVentas.xaml;
 
 True
 
