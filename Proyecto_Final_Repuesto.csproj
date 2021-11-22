@@ -21,7 +21,6 @@
 
   <ItemGroup>
     <Folder Include="Imagenes\" />
-    <Folder Include="UI\Consultas\" />
   </ItemGroup>
 
   <ItemGroup>
