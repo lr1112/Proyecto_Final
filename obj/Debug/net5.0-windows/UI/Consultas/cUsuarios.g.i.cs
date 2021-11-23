@@ -101,7 +101,7 @@ namespace Proyecto_Final_Repuesto.UI.Consultas {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Proyecto_Final_Repuesto;V1.0.0.0;component/ui/consultas/cusuarios.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Proyecto_Final_Repuesto;component/ui/consultas/cusuarios.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\UI\Consultas\cUsuarios.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

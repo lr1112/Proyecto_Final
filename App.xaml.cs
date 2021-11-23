@@ -13,5 +13,10 @@ namespace Proyecto_Final_Repuesto
     /// </summary>
     public partial class App : Application
     {
+        private void Application_DispatcherUnhandledException(object sender, System.Windows.Threading.DispatcherUnhandledExceptionEventArgs e)
+        {
+            MessageBox.Show("Lo sentimos a ocurrido una Excepcion."+e.Exception.Message);
+            e.Handled = true;
+        }
     }
 }

@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "nK+6TuEFzpJ0Os1gJA7U0yG9CGLNgRAGl4ncd9+3Mfa2goFVPcKyRPdIf03f00tTIJnrfpri6GH0eySPEZtQ6w==",
+  "dgSpecHash": "zk6J/KPk1QZqJ+cmRMw10eslfxytz2t64kpjFSTwPE4W/iy/kIzFD4hhW/Y2pgqN+6efeuTndFbyn690UiMR3A==",
   "success": true,
   "projectFilePath": "C:\\Users\\EDUCACION\\Desktop\\Proyecto_Final_Repuesto\\Proyecto_Final_Repuesto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EDUCACION\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\EDUCACION\\.nuget\\packages\\materialdesigncolors\\2.0.3\\materialdesigncolors.2.0.3.nupkg.sha512",
+    "C:\\Users\\EDUCACION\\.nuget\\packages\\materialdesignthemes\\4.2.1\\materialdesignthemes.4.2.1.nupkg.sha512",
     "C:\\Users\\EDUCACION\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\EDUCACION\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.11\\microsoft.data.sqlite.core.5.0.11.nupkg.sha512",
     "C:\\Users\\EDUCACION\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
